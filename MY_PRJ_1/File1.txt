@@ -1,10 +1,6 @@
 aa
 Test!Test!
-<<<<<<< HEAD
 From Git_Respository_Server_2 Words!
 From Git_Respository_Server_2 Words!
 From Git_Respository_Server_2 Words!
 From Git_Respository_Server_2 Words!
-=======
-dddd
->>>>>>> 76e3dcecf1cf5297c27c90a8edb7ee39bf716c31
